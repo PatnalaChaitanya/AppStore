@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.inactive {
+  border: none 0px;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #7b8794;
+  margin-right: 15px;
+  cursor: pointer;
+  font-weight: 400;
+  text-decoration:underline;
+}
+
+.line {
+  color: #7b8794;
+  border-width: 1px;
+}
+
+.active-button {
+  color: #2563eb;
+}
